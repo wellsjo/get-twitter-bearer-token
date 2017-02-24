@@ -1,0 +1,19 @@
+{
+  "name": "get-twitter-bearer-token",
+  "version": "1.0.0",
+  "description": "Get twitter bearer_token for oAuth",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellsjo/get-twitter-bearer-token.git"
+  },
+  "author": "wellsjo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wellsjo/get-twitter-bearer-token/issues"
+  },
+  "homepage": "https://github.com/wellsjo/get-twitter-bearer-token#readme",
+  "dependencies": {
+    "superagent": "^3.5.0"
+  }
+}
