@@ -3,11 +3,6 @@ This is a convenience method to obtain an application bearer token for the Twitt
 
 This is only meant to be used once per application/token, since the token needs to be explicitly invalidated to stop working. 
 
-## Install
-```
-npm i
-```
-
 ## Usage
 ```javascript
 const getBearerToken = require('get-twitter-bearer-token')
