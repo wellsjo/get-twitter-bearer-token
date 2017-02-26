@@ -15,7 +15,7 @@ getBearerToken(twitter_consumer_key, twitter_consumer_secret, (err, res) => {
     // handle error
   } else {
   
-    // bearer token
+    // bearer token from Twitter response
     console.log(res.body.access_token)
   }
 })
